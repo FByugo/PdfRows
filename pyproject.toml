@@ -1,0 +1,19 @@
+[project]
+name = "pdfrows"
+version = "1.0.0"
+description = "Turn a folder of PDF forms and replies into one CSV row per file, with where each value came from."
+requires-python = ">=3.10"
+dependencies = ["pdfplumber>=0.11", "pypdf>=4", "typer>=0.12"]
+
+[project.optional-dependencies]
+test = ["pytest>=8", "reportlab>=4"]
+
+[project.scripts]
+pdfrows = "pdfrows.cli:app"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["pdfrows"]
