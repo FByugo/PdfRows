@@ -1,0 +1,43 @@
+{
+ "fields": [
+  {
+   "name": "name",
+   "labels": [
+    "Name"
+   ],
+   "form_names": [
+    "full_name"
+   ]
+  },
+  {
+   "name": "email",
+   "labels": [
+    "Email"
+   ],
+   "form_names": [
+    "email"
+   ],
+   "pattern": "[^@\\s]+@[^@\\s]+\\.[a-z]{2,}"
+  },
+  {
+   "name": "heard",
+   "labels": [
+    "Q1. How did you hear about us?"
+   ]
+  },
+  {
+   "name": "comments",
+   "labels": [
+    "Q2. Comments"
+   ],
+   "multiline": true
+  },
+  {
+   "name": "rating",
+   "labels": [
+    "Q3. Rating"
+   ],
+   "pattern": "[1-5]"
+  }
+ ]
+}

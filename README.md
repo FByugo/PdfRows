@@ -1,5 +1,7 @@
 # pdfrows
 
+![demo: a real run of the tool](docs/demo.gif)
+
 You have a folder of PDFs. Survey replies, intake forms, applications. You want one spreadsheet with a row per file.
 
 ```
