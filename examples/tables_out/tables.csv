@@ -1,0 +1,114 @@
+Item,Qty,Unit price,Amount
+"Ceiling fan, 48 inch",3,$120.00,$360.00
+Wall bracket,10,$4.50,$45.00
+"Remote, model R-2",2,$15.25,$30.50
+Total,,,$435.50
+
+Name,Team,Start
+Ana Lopez,Sales,2021-03-01
+Ben Ode,,2022-11-15
+Cy Park,Ops,2019-07-09
+
+Item,Qty,Unit price,Amount
+"Ceiling fan, 48 inch",3,$120.00,$360.00
+Wall bracket,10,$4.50,$45.00
+"Remote, model R-2",2,$15.25,$30.50
+Total,,,$453.50
+
+Order,Customer,Amount
+A001,Customer 1,10.00
+A002,Customer 2,20.00
+A003,Customer 3,30.00
+A004,Customer 4,40.00
+A005,Customer 5,50.00
+A006,Customer 6,60.00
+A007,Customer 7,70.00
+A008,Customer 8,80.00
+A009,Customer 9,90.00
+A010,Customer 10,100.00
+A011,Customer 11,110.00
+A012,Customer 12,120.00
+A013,Customer 13,130.00
+A014,Customer 14,140.00
+A015,Customer 15,150.00
+A016,Customer 16,160.00
+A017,Customer 17,170.00
+A018,Customer 18,180.00
+A019,Customer 19,190.00
+A020,Customer 20,200.00
+A021,Customer 21,210.00
+A022,Customer 22,220.00
+A023,Customer 23,230.00
+A024,Customer 24,240.00
+A025,Customer 25,250.00
+A026,Customer 26,260.00
+A027,Customer 27,270.00
+A028,Customer 28,280.00
+A029,Customer 29,290.00
+A030,Customer 30,300.00
+A031,Customer 31,310.00
+A032,Customer 32,320.00
+A033,Customer 33,330.00
+A034,Customer 34,340.00
+A035,Customer 35,350.00
+A036,Customer 36,360.00
+A037,Customer 37,370.00
+A038,Customer 38,380.00
+A039,Customer 39,390.00
+A040,Customer 40,400.00
+A041,Customer 41,410.00
+A042,Customer 42,420.00
+A043,Customer 43,430.00
+A044,Customer 44,440.00
+A045,Customer 45,450.00
+A046,Customer 46,460.00
+A047,Customer 47,470.00
+A048,Customer 48,480.00
+A049,Customer 49,490.00
+A050,Customer 50,500.00
+A051,Customer 51,510.00
+A052,Customer 52,520.00
+A053,Customer 53,530.00
+A054,Customer 54,540.00
+A055,Customer 55,550.00
+A056,Customer 56,560.00
+A057,Customer 57,570.00
+A058,Customer 58,580.00
+A059,Customer 59,590.00
+A060,Customer 60,600.00
+A061,Customer 61,610.00
+A062,Customer 62,620.00
+A063,Customer 63,630.00
+A064,Customer 64,640.00
+A065,Customer 65,650.00
+A066,Customer 66,660.00
+A067,Customer 67,670.00
+A068,Customer 68,680.00
+A069,Customer 69,690.00
+A070,Customer 70,700.00
+A071,Customer 71,710.00
+A072,Customer 72,720.00
+A073,Customer 73,730.00
+A074,Customer 74,740.00
+A075,Customer 75,750.00
+A076,Customer 76,760.00
+A077,Customer 77,770.00
+A078,Customer 78,780.00
+A079,Customer 79,790.00
+A080,Customer 80,800.00
+A081,Customer 81,810.00
+A082,Customer 82,820.00
+A083,Customer 83,830.00
+A084,Customer 84,840.00
+A085,Customer 85,850.00
+A086,Customer 86,860.00
+A087,Customer 87,870.00
+A088,Customer 88,880.00
+A089,Customer 89,890.00
+A090,Customer 90,900.00
+
+Item,Qty,Unit price,Amount
+"Ceiling fan, 48 inch",3,$120.00,$360.00
+Wall bracket,10,$4.50,$45.00
+"Remote, model R-2",2,$15.25,$30.50
+Total,,,$435.50

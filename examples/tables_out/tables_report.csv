@@ -1,0 +1,11 @@
+kind,file,pages,sheet_rows,rows,columns,found_by,notes
+table,1_invoice.pdf,1,1-5,5,4,ruled lines,2 empty cells; row 5 column 4: total $435.50 adds up
+table,2_staff_and_invoice.pdf,1,7-10,4,3,ruled lines,1 empty cell
+table,2_staff_and_invoice.pdf,1,12-16,5,4,ruled lines,"2 empty cells; row 5 column 4: the table says $453.50, the rows above add to 435.50"
+table,3_long_order_list.pdf,1-3,18-108,91,3,ruled lines,"runs over pages, the repeated header was dropped"
+table,4_price_list_no_lines.pdf,1,110-114,5,4,spacing,"no ruled lines, columns read from spacing, look at this one; 2 empty cells; row 5 column 4: total $435.50 adds up"
+problem,5_scan.pdf,1,,,,,"no text layer (0 characters), looks scanned, nothing read from it"
+text outside tables,1_invoice.pdf,1,,,,,"11 characters on this page are in no table (titles and notes are normal, a large number can mean a missed table)"
+text outside tables,2_staff_and_invoice.pdf,1,,,,,"18 characters on this page are in no table (titles and notes are normal, a large number can mean a missed table)"
+text outside tables,3_long_order_list.pdf,1,,,,,"6 characters on this page are in no table (titles and notes are normal, a large number can mean a missed table)"
+text outside tables,4_price_list_no_lines.pdf,1,,,,,"16 characters on this page are in no table (titles and notes are normal, a large number can mean a missed table)"
